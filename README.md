@@ -1,4 +1,4 @@
-# (Fork) The Forum Helper
+# (Fork) The Forum Helpers
 
 This is just a fork of the archived site of TFH so it's still viewable.
 
