@@ -1,4 +1,4 @@
-fetch("https://theforumhelpers.github.io/apply/status.json")
+fetch("https://mybearworld.github.io/tfh/apply/status.json")
 	.then(response => response.json())
 	.then(data => {
 		var applicationStatus = data.status;
